@@ -11,7 +11,7 @@ Olá, visitante! Mais um passo nas aulas de Front-end da Alura e este projeto co
 
 ## O que foi abordado nas Aulas:
 
-### HTM:
+### HTML:
 
 * Listas
 * Mais de uma classe nas tags
@@ -21,7 +21,7 @@ Olá, visitante! Mais um passo nas aulas de Front-end da Alura e este projeto co
 ### CSS:
 
 * Variáveis
-* Pseudo-classe
+* Pseudo-classes
 * grid-template-columns
 * Adicionar imagens pelo CSS
 
