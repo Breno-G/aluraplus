@@ -1,6 +1,6 @@
 # Alura Plus
 
-![image](Página inicial.png)
+![image](assets/Página inicial.png)
 
 Olá, visitante! Mais um passo nas aulas de Front-end da Alura e este projeto consistiu em desenvolver um página web inicial de um serviço de assinatura da plataforma Alura. 
 
